@@ -97,3 +97,24 @@ ul {
     margin: auto;
     text-align: center;
   }
+  #texte_nous_contacter {
+    text-align: center;
+    margin: 30px;
+  }
+  h2 {
+    margin: 10px;
+    font-weight: bold;
+  }
+  #bloc_contacter {
+    width: 1200px;
+    margin: auto;
+  }
+  #formulaire {
+    width: 1200px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+  }
+  #button_envoyer:hover {
+    cursor: pointer;
+}
